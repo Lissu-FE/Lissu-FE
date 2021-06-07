@@ -18,7 +18,7 @@
 <p align="center">
   <a href="https://lissu.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://lissu.tistory.com/"/></a>&nbsp
   <a href="https://www.instagram.com/lissu_o_o/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lissu_o_o/"/></a>&nbsp
-  <a href="mailto:lissu@kakao.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Mail&logoColor=white&link=lissu@kakao.com"/></a>
+  <a href="mailto:lissu@kakao.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=lissu@kakao.com"/></a>
 </p>
 <br>
 
